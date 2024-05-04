@@ -1,0 +1,185 @@
+1,Akron,OH,United States,DAY
+2,Albuquerque,NM,United States,ABQ
+3,Allentown,PA,United States,ABE
+4,Amarillo,TX,United States,AMA
+5,Anaheim,CA,United States,LAX
+6,Anchorage,AK,United States,ANC
+7,Arlington,TX,United States,ORF
+8,Asheville,NC,United States,AVL
+9,Atlanta,GA,United States,ATL
+10,Aurora,CO,United States,MEI
+11,Aurora,IL,United States,PSE
+12,Austin,TX,United States,AUS
+13,Bakersfield,CA,United States,BFL
+14,Baltimore,MD,United States,EAR
+15,Bangor,ME,United States,BGR
+16,Baton Rouge,LA,United States,BTR
+17,Bellevue,NE,United States,PGA
+18,Billings,MT,United States,BIL
+19,Biloxi,MS,United States,GFL
+20,Bismarck,ND,United States,BIS
+21,Boise,ID,United States,BOI
+22,Boston,MA,United States,BOS
+23,Bowling Green,KY,United States,BWG
+24,Broken Arrow,OK,United States,MHE
+25,Buffalo,NY,United States,BUF
+26,Burlington,VT,United States,BRL
+27,Carson City,NV,United States,EKO
+28,Casper,WY,United States,CPR
+29,Cedar Rapids,IA,United States,CID
+30,Chandler,AZ,United States,HUF
+31,Charleston,WV,United States,CHS
+32,Charlotte,NC,United States,CLT
+33,Chattanooga,TN,United States,CHA
+34,Chesapeake,VA,United States,SGF
+35,Cheyenne,WY,United States,CYS
+36,Chicago,IL,United States,ORD
+37,Chula Vista,CA,United States,ABY
+38,Cincinnati,OH,United States,CVG
+39,Clarksville,TN,United States,UNV
+40,Cleveland,OH,United States,CLE
+41,Colorado Springs,CO,United States,COS
+42,Columbia,MO,United States,COU
+43,Columbus,OH,United States,CSG
+44,Corpus Christi,TX,United States,CRP
+45,Cranston,RI,United States,LGB
+46,Dallas,TX,United States,DFW
+47,Dayton,OH,United States,DAY
+48,Denver,CO,United States,DEN
+49,Des Moines,IA,United States,DSM
+50,Detroit,MI,United States,DTW
+51,Duluth,MN,United States,DLH
+52,Durham,NC,United States,SBN
+53,El Paso,TX,United States,ELP
+54,Elizabeth,NJ,United States,PGA
+55,Erie,PA,United States,ERI
+56,Eugene,OR,United States,EUG
+57,Evansville,IN,United States,EVV
+58,Fairbanks,AK,United States,FAI
+59,Fargo,ND,United States,FAR
+60,Fayetteville,AR,United States,FYV
+61,Fayetteville,NC,United States,FYV
+62,Fort Wayne,IN,United States,FWA
+63,Fort Worth,TX,United States,FTW
+64,Fremont,CA,United States,EUG
+65,Fresno,CA,United States,FAT
+66,Gaithersburg,MD,United States,AGS
+67,Garland,TX,United States,AVL
+68,Gilbert,AZ,United States,EAU
+69,Glendale,AZ,United States,PHX
+70,Grand Island,NE,United States,GRI
+71,Grand Rapids,MI,United States,GRR
+72,Green Bay,WI,United States,GRB
+73,Greensboro,NC,United States,GSO
+74,Gulfport,MS,United States,GPT
+75,Henderson,NV,United States,MCK
+76,Hialeah,FL,United States,OXC
+77,Honolulu,HI,United States,HNL
+78,Houston,TX,United States,IAH
+79,Huntington,WV,United States,HTS
+80,Huntsville,AL,United States,HSV
+81,Indianapolis,IN,United States,IND
+82,Irvine,CA,United States,PBI
+83,Irving,TX,United States,ATW
+84,Jacksonville,FL,United States,JAX
+85,Jersey City,NJ,United States,PHL
+86,Juneau,AK,United States,JNU
+87,Kansas City,MO,United States,MCI
+88,Kenosha,WI,United States,ENW
+89,Lafayette,LA,United States,LFT
+90,Laredo,TX,United States,LRD
+91,Las Vegas,NV,United States,LAS
+92,Lewiston,ME,United States,LWS
+93,Lexington,KY,United States,LEX
+94,Lincoln,NE,United States,LNK
+95,Little Rock,AR,United States,LIT
+96,Long Beach,CA,United States,LGB
+97,Los Angeles,CA,United States,LAX
+98,Louisville,KY,United States,SDF
+99,Lubbock,TX,United States,LBB
+100,Madison,WI,United States,MSN
+101,Manchester,NH,United States,MHT
+102,McAllen,TX,United States,MFE
+103,Memphis,TN,United States,MEM
+104,Mesa,AZ,United States,IWA
+105,Miami,FL,United States,MIA
+106,Milwaukee,WI,United States,MKE
+107,Minneapolis,MN,United States,MSP
+108,Missoula,MT,United States,MSO
+109,Mobile,AL,United States,MOB
+110,Mount Pleasant,SC,United States,STL
+111,Naperville,IL,United States,BID
+112,Nashua,NH,United States,LAW
+113,Nashville,TN,United States,BNA
+114,New Orleans,LA,United States,MSY
+115,New York,NY,United States,JFK
+116,Newark,NJ,United States,EWR
+117,Newport News,VA,United States,PHF
+118,Norfolk,VA,United States,ORF
+119,Norman,OK,United States,SGJ
+120,North Las Vegas,NV,United States,LEB
+121,Oakland,CA,United States,OAK
+122,Oklahoma City,OK,United States,OKC
+123,Omaha,NE,United States,OMA
+124,Orlando,FL,United States,MCO
+125,Overland Park,KS,United States,PQI
+126,Pasadena,CA,United States,DRO
+127,Paterson,NJ,United States,OTM
+128,Peoria,AZ,United States,PIA
+129,Philadelphia,PA,United States,PHL
+130,Phoenix,AZ,United States,PHX
+131,Pittsburgh,PA,United States,PIT
+132,Plano,TX,United States,JNU
+133,Portland,OR,United States,PWM
+134,Provo,UT,United States,PVU
+135,Raleigh,NC,United States,OAK
+136,Rapid City,SD,United States,RAP
+137,Reno,NV,United States,RNO
+138,Richmond,VA,United States,RIC
+139,Riverside,CA,United States,ROA
+140,Roanoke,VA,United States,ROA
+141,Rochester,MN,United States,RST
+142,Rock Hill,SC,United States,EYW
+143,Rockville,MD,United States,PLB
+144,Roswell,NM,United States,ROW
+145,Rutland,VT,United States,RUT
+146,Sacramento,CA,United States,SMF
+147,Saint Paul,MN,United States,BJI
+148,Salem,OR,United States,SLE
+149,San Antonio,TX,United States,SAT
+150,San Diego,CA,United States,SAN
+151,San Francisco,CA,United States,SFO
+152,San Jose,CA,United States,SJC
+153,Santa Ana,CA,United States,VRB
+154,Santa Clarita,CA,United States,GRK
+155,Santa Fe,NM,United States,SAF
+156,Scottsdale,AZ,United States,TYR
+157,Seattle,WA,United States,SEA
+158,Shreveport,LA,United States,SHV
+159,Sioux Falls,SD,United States,FSD
+160,South Bend,IN,United States,SBN
+161,Spokane,WA,United States,GEG
+162,Springfield,MA,United States,SPI
+163,Springfield,MO,United States,SPI
+164,St. Louis,MO,United States,AUS
+165,St. Petersburg,FL,United States,TVL
+166,Stockton,CA,United States,SCK
+167,Syracuse,NY,United States,SYR
+168,Tacoma,WA,United States,IRK
+169,Tampa,FL,United States,TPA
+170,Tempe,AZ,United States,PHX
+171,Toledo,OH,United States,TOL
+172,Tucson,AZ,United States,TUS
+173,Tulsa,OK,United States,TUL
+174,Vancouver,WA,United States,DAY
+175,Virginia Beach,VA,United States,PSM
+176,Warren,MI,United States,BTR
+177,Warwick,RI,United States,MDM
+178,Washington,DC,United States,IAD
+179,West Jordan,UT,United States,LPR
+180,Wichita,KS,United States,ICT
+181,Wichita Falls,KS,United States,SPS
+182,Winston-Salem,NC,United States,ACB
+183,Worcester,MA,United States,ORH
+184,Yonkers,NY,United States,LGA
+185,Portland,ME,United States,PWM
